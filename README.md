@@ -32,3 +32,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 PLOT-1
 
 <img width="483" alt="573872FF-7745-4655-B9DB-451FF1B8518E_1_201_a" src="https://user-images.githubusercontent.com/111347214/204345656-c09f2dc2-2e85-479c-9b62-5542fa071f8d.png">
+
+PLOT-2
+
+<img width="478" alt="Screenshot 2022-11-28 at 11 22 22 pm copy" src="https://user-images.githubusercontent.com/111347214/204347224-85ced6e8-e0d7-402b-be93-f245610855d5.png">
+
