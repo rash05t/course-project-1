@@ -27,3 +27,8 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 8.Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 
 9.Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
+
+
+PLOT-1
+
+<img width="483" alt="573872FF-7745-4655-B9DB-451FF1B8518E_1_201_a" src="https://user-images.githubusercontent.com/111347214/204345656-c09f2dc2-2e85-479c-9b62-5542fa071f8d.png">
